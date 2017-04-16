@@ -1,0 +1,22 @@
+{
+  "name": "media-query-loader",
+  "version": "1.0.0",
+  "description": "Just adds media query string to the top and closing bracket to the bottom of source file. Useful when you have conditional styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egorvoronov/media-query-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egorvoronov/media-query-loader/issues"
+  },
+  "homepage": "https://github.com/egorvoronov/media-query-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
